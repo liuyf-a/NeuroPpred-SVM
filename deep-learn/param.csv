@@ -1,0 +1,2 @@
+model,batch_size,lr,beta,epoch
+CNN1D_BiLSTM,32,0.002,0.9,32
